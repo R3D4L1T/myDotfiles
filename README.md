@@ -14,7 +14,7 @@ A big thanks to these configurations for helping me as a new user.
 
 For this reason, I saved these configurations here. If you need a reference or want to learn how to use them, feel free to explore. Note that these configurations are adapted for my personal use.
 
-![./assets/vim.jpg]
+<img src="https://github.com/R3D4L1T/myDotfiles/blob/main/assets/vim.jpg">
 
 
 
@@ -23,10 +23,8 @@ For this reason, I saved these configurations here. If you need a reference or w
 
  I adapted these configurations for my personal use, focusing on productivity and aesthetics. If you'd like to explore or learn how to use these setups, feel free to check out the repository. Note that my configurations are tailored to my workflow.
 
-![./assets/obsidian1.png]
-![./assets/obsidian2.png]
-
 <img src="https://github.com/R3D4L1T/myDotfiles/blob/main/assets/obsidian1.png">
+<img src="https://github.com/R3D4L1T/myDotfiles/blob/main/assets/obsidian2.png">
 
 
 
