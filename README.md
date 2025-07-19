@@ -26,3 +26,8 @@ For this reason, I saved these configurations here. If you need a reference or w
 ![./assets/obsidian1.png]
 ![./assets/obsidian2.png]
 
+<img src="https://github.com/R3D4L1T/myDotfiles/blob/main/assets/obsidian1.png">
+
+
+
+
