@@ -12,3 +12,7 @@ However, I don't know how to create beautiful interfaces. I based my configurati
 A big thanks to these configurations for helping me as a new user.
 
 For this reason, I saved these configurations here. If you need a reference or want to learn how to use them, feel free to explore. Note that these configurations are adapted for my personal use.
+
+
+## Obsidian
+
