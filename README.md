@@ -27,9 +27,10 @@ For this reason, I saved these configurations here. If you need a reference or w
 <img src="https://github.com/R3D4L1T/myDotfiles/blob/main/assets/obsidian2.png">
 
 ## Desktop Environment
-MY Desktop environment made on parrotOS based on [Usergh0st/bspwm](https://github.com/Usergh0st/bspwm)
-and [ZLCube/AutoBspwm](https://github.com/ZLCube/AutoBspwm), that this is beautiful destktop bspwm enviroment.
 
+My desktop environment is built on ParrotOS and is inspired by the beautiful setups from [Usergh0st/bspwm](https://github.com/Usergh0st/bspwm) and [ZLCube/AutoBspwm](https://github.com/ZLCube/AutoBspwm). This setup provides a sleek and efficient bspwm environment tailored to my workflow.
+
+Feel free to explore or adapt these configurations for your own use. Note that my setup is customized to my preferences.
 
 <img src="https://github.com/R3D4L1T/myDotfiles/blob/main/assets/bspwm.png">
 
